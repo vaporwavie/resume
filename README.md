@@ -41,10 +41,10 @@ Passionate front end developer with 4 years of development experience, focused o
 
 ## Some infos
 
-* Deep JavaScript knowledge, with some love for ReactJS/Native, as well as HTML, using pre-processors like SASS and LESS. I also have some background in UX design, thanks to my internship at Agilize.
+* Deep JavaScript knowledge, with some love for ReactJS/Native, as well as HTML, CSS using pre-processors like SASS and LESS. I also have some background in UX design, thanks to my internship at Agilize.
 * I also have experience in NodeJS, PHP (Laravel), MySQL, Git, Linux/Bash, Python and, lastly, Photoshop.
 * I am very curious and proactive. I know it sounds generic, but I can guarantee that I'm always looking for something cool, that will help me as a developer and as a person.
-* I speak Portuguese natively, and English fluently (which I am self-taught.)
+* I speak Portuguese natively, and English fluently (which I am self-taught).
 
 ## Contact
 

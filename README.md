@@ -4,20 +4,14 @@ Passionate front end developer with 4 years of development experience, focused o
 
 ## Experience
 
-### Agilize Tecnologia (https://agilize.com.br)
 
-**Intern front end developer** – October 2016, November 2017
+### Nickel Tech
 
-* Worked on **Agilize Mobile**
-* Contributed to the development team by creating tools to automatize a few work routines (e.g: Docker improvements, Bash scripts)
-* Maintained Agilize's web app for customers and employees.
+**CEO/Founder** – December 2017, present
 
-### Cubos (https://cubos.io)
-
-**Intern front end developer** – February 2017, May 2017
-
-* Despite the short experience due the lack of time, it was because of Cubos that had my first experience with the React ecosystem, which I mainly use nowadays.
-* Started the development of Cubos new website
+* High quality web and mobile development company, created to innovate and improve, accepting accessible budgets.
+* Maintains a big role as the startup behind Biobras, a pioneer web app that helps the employees at Logibras to register the truck drivers using the biometry, with a low-to-null latency, integrated with Modallport.
+* Also takes part on open-source projects, available at https://github.com/nickeltech
 
 ### Digital Apps Tecnologia (https://digitalapps.com.br)
 
@@ -31,13 +25,20 @@ Passionate front end developer with 4 years of development experience, focused o
   * BURH app
   * Reclame Aqui Academy
 
-### Nickel Tech (website is in progress)
+### Cubos (https://cubos.io)
 
-**CEO/Founder** – December 2017, present
+**Intern front end developer** – February 2017, May 2017
 
-* High quality web and mobile development company, created to innovate and improve, accepting accessible budgets.
-* Maintains a big role as the startup behind Biobras, a pioneer web app that helps the employees at Logibras to register the truck drivers using the biometry, with a low-to-null latency, integrated with Modallport.
-* Also takes part on open-source projects, available at https://github.com/nickeltech
+* Despite the short experience due the lack of time, it was because of Cubos that had my first experience with the React ecosystem, which I mainly use nowadays.
+* Started the development of Cubos new website
+
+### Agilize Tecnologia (https://agilize.com.br)
+
+**Intern front end developer** – October 2016, November 2017
+
+* Worked on **Agilize Mobile**
+* Contributed to the development team by creating tools to automatize a few work routines (e.g: Docker improvements, Bash scripts)
+* Maintained Agilize's web app for customers and employees.
 
 ## Some infos
 

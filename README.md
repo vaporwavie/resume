@@ -4,7 +4,7 @@ Passionate front end developer with 4 years of development experience, focused o
 
 ## Experience
 
-### Sizebay
+### Sizebay (https://sizebay.com)
 
 **Front end developer** - December 2018, present
 
@@ -56,7 +56,7 @@ Passionate front end developer with 4 years of development experience, focused o
 
 You can send me a "Hey!" via:
 
-* E-mail: luizaugustonickel@gmail.com
+* E-mail: luiznikel@protonmail.com
 * Twitter: [@vaporwavie](https://twitter.com/vaporwavie)
 * Github: [@vaporwavie](https://github.com/vaporwavie)
 

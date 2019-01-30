@@ -4,6 +4,11 @@ Passionate front end developer with 4 years of development experience, focused o
 
 ## Experience
 
+### Sizebay
+
+**Front end developer** - December 2018, present
+
+* All things related to front end, mostly using ReactJS along with its variants (Next, etc)
 
 ### Nickel Tech
 

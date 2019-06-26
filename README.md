@@ -1,14 +1,18 @@
 # Luiz Nickel
 
-Passionate front end developer with 4 years of development experience, focused on delivering concise products that offers quality and usability. Creating awesome things is always my main goal, altogether with experimenting new technologies and getting to know what the market needs more. I'm not here only to deliver products, but also to learn from the best, and to share knowledge freely, which made me an open-source evangelist.
+Passionate developer with 4 years of development experience, focused on delivering concise products that offers quality and usability. Creating awesome things is always my main goal, altogether with experimenting new technologies and getting to know what the market needs more. I'm not here only to deliver products, but also to learn from the best, and to share knowledge freely, which made me an open-source evangelist.
 
 ## Experience
 
 ### Sizebay (https://sizebay.com)
 
-**Front end developer** - December 2018, present
+**Full stack developer** - December 2018, present
 
-* All things related to front end, mostly using ReactJS along with its variants (Next, etc)
+* Maintenance of the structure, from devops (AWS/Docker/Terraform), back-end (Java/Kikaha) to front-end (React/TS)
+* Assistance to implement our main product into the customer's e-commerce (covering from mobile to web apps)
+* Migration of a fatigued front-end code base to a modern approach by using Typescript React along with newer methodologies
+* Presence and deep analysis regarding the future of the main product
+* Development of internal apps to assist minor but important tasks, such as Customer Data Reports and CI second-coverage
 
 ### Nickel Tech
 

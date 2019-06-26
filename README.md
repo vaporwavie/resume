@@ -28,7 +28,7 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 * Consistent development and presence of each released application, made mostly using React Native.
 * Took a important part as a development team leader from April 2018 to August 2018.
-* Was responsible to migrate the full remote team to Slack, as well as re-organizing our Trello page.
+* Was responsible to migrate the full remote team to Slack, as well as re-organizing the team's Trello page.
 * Delivered huge projects like: 
   * Bom Prato and Viva Leite, both to Sao Paulo's town hall.
   * BURH app
@@ -38,7 +38,7 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 **Intern front end developer** – February 2017, May 2017
 
-* Despite the short experience due the lack of time, it was because of Cubos that had my first experience with the React ecosystem, which I mainly use nowadays.
+* Despite the short experience due the lack of time, it was due to Cubos that I had my first experience with the React ecosystem, which I mainly use nowadays.
 * Started the development of Cubos new website
 
 ### Agilize Tecnologia (https://agilize.com.br)

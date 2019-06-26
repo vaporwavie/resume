@@ -6,7 +6,7 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 ### Sizebay (https://sizebay.com)
 
-**Full stack developer** - December 2018, present
+**Full stack developer** - December 2018, present 🏢
 
 * Maintenance of the structure, from devops (AWS/Docker/Terraform), back-end (Java/Kikaha) to front-end (React/TS)
 * Assistance to implement our main product into the customer's e-commerce (covering from mobile to web apps)
@@ -16,7 +16,7 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 ### Nickel Tech
 
-**CEO/Founder** – December 2017, present
+**CEO/Founder** – December 2017, inactive 🏠
 
 * High quality web and mobile development company, created to innovate and improve, accepting accessible budgets.
 * Maintains a big role as the startup behind Biobras, a pioneer web app that helps the employees at Logibras to register the truck drivers using the biometry, with a low-to-null latency, integrated with Modallport.
@@ -24,7 +24,7 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 ### Digital Apps Tecnologia (https://digitalapps.com.br)
 
-**Front end developer** – December 2017, October 2018 (Worked remotely)
+**Front end developer** – December 2017, October 2018 🏠
 
 * Consistent development and presence of each released application, made mostly using React Native.
 * Took a important part as a development team leader from April 2018 to August 2018.
@@ -36,14 +36,14 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 ### Cubos (https://cubos.io)
 
-**Intern front end developer** – February 2017, May 2017
+**Intern front end developer** – February 2017, May 2017 🏢
 
 * Despite the short experience due the lack of time, it was due to Cubos that I had my first experience with the React ecosystem, which I mainly use nowadays.
 * Started the development of Cubos new website
 
 ### Agilize Tecnologia (https://agilize.com.br)
 
-**Intern front end developer** – October 2016, November 2017
+**Intern front end developer** – October 2016, November 2017 🏢
 
 * Worked on **Agilize Mobile**
 * Contributed to the development team by creating tools to automatize a few work routines (e.g: Docker improvements, Bash scripts)

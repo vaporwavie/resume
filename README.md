@@ -60,7 +60,7 @@ Passionate developer with 4 years of development experience, focused on deliveri
 
 You can send me a "Hey!" via:
 
-* E-mail: luiznikel@protonmail.com
+* E-mail: luizaugustonickel@gmail.com
 * Twitter: [@vaporwavie](https://twitter.com/vaporwavie)
 * Github: [@vaporwavie](https://github.com/vaporwavie)
 

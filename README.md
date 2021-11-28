@@ -8,13 +8,13 @@ Passionate developer with +5 years of development experience, focused on deliver
 
 **Senior Frontend Developer** - December 2018, present 🏢
 
-* Responsible for recreating and maintaining the web stack with React, TypeScript and Redux Toolkit from a once-fatigued front-end code base
+* Responsible for recreating and maintaining the web stack with React, TypeScript and Redux Toolkit from a once-fatigued frontend code base
 * Developed Virtual Fitting Room version 3 (2019) and 4 (2020), Sizebay’s main service, currently used by millions of users every month, with thousands of access per minute and trusted by clients such as Netshoes, Nike, Riachuelo and much more (see at https://sizebay.com/en/integrations/)
-* Integrated a11y with ADA Compliance guidelines into every front-end project, along with i18n with maintenance and versioning through S3 and CloudFront
-* Mentored front-end interns and also created the onboarding method currently used by the development team
-* Explored up-and-coming front-end frameworks, i.e: Svelte for smaller projects (integrations with Google Chat, Changelog publishing webapp, user metric reports web app, etc)
+* Integrated a11y with ADA Compliance guidelines into every frontend project, along with i18n with maintenance and versioning through S3 and CloudFront
+* Mentored frontend interns and also created the onboarding method currently used by the development team
+* Explored up-and-coming frontend frameworks, i.e: Svelte for smaller projects (integrations with Google Chat, Changelog publishing webapp, user metric reports web app, etc)
 * Development of internal apps to assist tasks from other company sectors, such as Customer Data Reports and Usage Metrics (with Sentry and Datadog)
-* Created the front-end challenge for newcomers, started dojos and other internal team integrations
+* Created the frontend challenge for newcomers, started dojos and other internal team integrations
 * High-level development and module bundler knowledge to create a very performatic and complex web application that barely weighs 100kb
 * Infra maintenance within AWS, such as Code Deploy, S3, EC2, ECS and Route53)
 * Assistance to implement our main product into the customer's e-commerce (covering from mobile to web apps)

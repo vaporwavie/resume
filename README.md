@@ -66,6 +66,7 @@ Passionate developer with +5 years of development experience, focused on deliver
 You can send me a "Hey!" via:
 
 * E-mail: luizaugustonickel@gmail.com
+* LinkedIn: https://www.linkedin.com/in/luiz-nickel/
 * Twitter: [@vaporwavie](https://twitter.com/vaporwavie)
 * Github: [@vaporwavie](https://github.com/vaporwavie)
 

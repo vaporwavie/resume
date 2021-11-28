@@ -1,6 +1,6 @@
 # Luiz Nickel
 
-Passionate developer with 5 years of development experience, focused on delivering concise products that offers quality and usability. Creating awesome things is always my main goal, altogether with experimenting new technologies and getting to know what the market needs more. I'm not here only to deliver products, but also to learn from the best, and to share knowledge freely, which made me an open-source evangelist.
+Passionate developer with +5 years of development experience, focused on delivering concise UI with performance, a11y and usability. Creating awesome products is always my main goal, altogether with experimenting new technologies and getting to know what the market needs the most. I'm here not only to deliver products, but also to learn from the best, and to share knowledge as tangible as possible, which made me an open-source no. 1 fan, with a few FOSS projects in the oven.
 
 ## Experience
 

@@ -13,7 +13,7 @@ Passionate developer with +5 years of development experience, focused on deliver
 * Integrated a11y with ADA Compliance guidelines into every frontend project, along with i18n with maintenance and versioning through S3 and CloudFront
 * Mentored frontend interns and also created the onboarding method currently used by the development team
 * Explored up-and-coming frontend frameworks, i.e: Svelte for smaller projects (integrations with Google Chat, Changelog publishing webapp, user metric reports web app, etc)
-* Development of internal apps to assist tasks from other company sectors, such as Customer Data Reports and Usage Metrics (with Sentry and Datadog)
+* Development of internal apps to assist tasks from other company sectors, such as Customer Data Reports and Usage Metrics (with Sentry and inner tracking services)
 * Created the frontend challenge for newcomers, started dojos and other internal team integrations
 * High-level development and module bundler knowledge to create a very performatic and complex web application that barely weighs 100kb
 * Infra maintenance within AWS, such as Code Deploy, S3, EC2, ECS and Route53)

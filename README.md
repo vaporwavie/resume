@@ -6,13 +6,18 @@ Passionate developer with 5 years of development experience, focused on deliveri
 
 ### Sizebay (https://sizebay.com)
 
-**Full stack developer** - December 2018, present 🏢
+**Senior Frontend Developer** - December 2018, present 🏢
 
-* Maintenance of the structure, from devops (AWS/Docker/Terraform), back-end (Java/Kikaha) to front-end (React/TS)
+* Responsible for recreating and maintaining the web stack with React, TypeScript and Redux Toolkit from a once-fatigued front-end code base
+* Developed Virtual Fitting Room version 3 (2019) and 4 (2020), Sizebay’s main service, currently used by millions of users every month, with thousands of access per minute and trusted by clients such as Netshoes, Nike, Riachuelo and much more (see at https://sizebay.com/en/integrations/)
+* Integrated a11y with ADA Compliance guidelines into every front-end project, along with i18n with maintenance and versioning through S3 and CloudFront
+* Mentored front-end interns and also created the onboarding method currently used by the development team
+* Explored up-and-coming front-end frameworks, i.e: Svelte for smaller projects (integrations with Google Chat, Changelog publishing webapp, user metric reports web app, etc)
+* Development of internal apps to assist tasks from other company sectors, such as Customer Data Reports and Usage Metrics (with Sentry and Datadog)
+* Created the front-end challenge for newcomers, started dojos and other internal team integrations
+* High-level development and module bundler knowledge to create a very performatic and complex web application that barely weighs 100kb
+* Infra maintenance within AWS, such as Code Deploy, S3, EC2, ECS and Route53)
 * Assistance to implement our main product into the customer's e-commerce (covering from mobile to web apps)
-* Migration of a fatigued front-end code base to a modern approach by using Typescript React along with newer methodologies
-* Presence and deep analysis regarding the future of the main product
-* Development of internal apps to assist minor but important tasks, such as Customer Data Reports and CI second-coverage
 
 ### Nickel Tech
 
@@ -24,7 +29,7 @@ Passionate developer with 5 years of development experience, focused on deliveri
 
 ### Digital Apps Tecnologia (https://digitalapps.com.br)
 
-**Front end developer** – December 2017, October 2018 🏠
+**Frontend Developer** – December 2017, October 2018 🏠
 
 * Consistent development and presence of each released application, made mostly using React Native.
 * Took a important part as a development team leader from April 2018 to August 2018.
@@ -36,14 +41,14 @@ Passionate developer with 5 years of development experience, focused on deliveri
 
 ### Cubos (https://cubos.io)
 
-**Intern front end developer** – February 2017, May 2017 🏢
+**Intern Frontend Developer** – February 2017, May 2017 🏢
 
 * Despite the short experience due the lack of time, it was due to Cubos that I had my first experience with the React ecosystem, which I mainly use nowadays.
 * Started the development of Cubos new website
 
 ### Agilize Tecnologia (https://agilize.com.br)
 
-**Intern front end developer** – October 2016, November 2017 🏢
+**Intern Frontend Developer** – October 2016, November 2017 🏢
 
 * Worked on **Agilize Mobile**
 * Contributed to the development team by creating tools to automatize a few work routines (e.g: Docker improvements, Bash scripts)

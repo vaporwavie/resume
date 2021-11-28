@@ -6,7 +6,7 @@ Passionate developer with +5 years of development experience, focused on deliver
 
 ### Sizebay (https://sizebay.com)
 
-**Senior Frontend Developer** - December 2018, present 🏢
+**Senior Frontend Developer** - December 2018, present 🏢/🏠
 
 * Responsible for recreating and maintaining the web stack with React, TypeScript and Redux Toolkit from a once-fatigued frontend code base
 * Developed Virtual Fitting Room version 3 (2019) and 4 (2020), Sizebay’s main service, currently used by millions of users every month, with thousands of access per minute and trusted by clients such as Netshoes, Nike, Riachuelo and much more (see at https://sizebay.com/en/integrations/)

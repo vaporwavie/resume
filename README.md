@@ -4,7 +4,13 @@ Passionate developer with +5 years of development experience, focused on deliver
 
 ## Experience
 
+### Melty Software (https://melty.dev)
+
+**Senior Fullstack Developer** - September 2022, present (contracting)
+
 ### Sizebay (https://sizebay.com)
+
+**Head of Technology** - March 2022, present 🏢/🏠
 
 **Senior Frontend Developer** - December 2018, present 🏢/🏠
 

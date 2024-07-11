@@ -25,9 +25,9 @@ Passionate developer with +5 years of development experience, focused on deliver
 * Infra maintenance within AWS, such as Code Deploy, S3, EC2, ECS and Route53)
 * Assistance to implement our main product into the customer's e-commerce (covering from mobile to web apps)
 
-### Nickel Tech
+### Erfolg
 
-**CEO/Founder** – December 2017, inactive 🏠
+**CEO/Founder** – December 2017, present 🏠
 
 * High quality web and mobile development company, created to innovate and improve, accepting accessible budgets.
 * Maintains a big role as the startup behind Biobras, a pioneer web app that helps the employees at Logibras to register the truck drivers using the biometry, with a low-to-null latency, integrated with Modallport.

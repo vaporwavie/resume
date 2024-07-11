@@ -4,9 +4,9 @@ Passionate developer with +5 years of development experience, focused on deliver
 
 ## Experience
 
-### Melty Software (https://melty.dev)
+### VTEX (https://vtex.com/)
 
-**Senior Fullstack Developer** - September 2022, present (contracting)
+**Senior Software Developer** - June 2024, present 🏠
 
 ### Sizebay (https://sizebay.com)
 

@@ -1,12 +1,21 @@
 # Luiz Nickel
 
-Passionate developer with +5 years of development experience, focused on delivering concise UI with performance, a11y and usability. Creating awesome products is always my main goal, altogether with experimenting new technologies and getting to know what the market needs the most. I'm here not only to deliver products, but also to learn from the best, and to share knowledge as tangible as possible, which made me an open-source no. 1 fan, with a few FOSS projects in the oven.
+Passionate developer with +10 years of development experience, focused on delivering concise UI with performance, a11y and usability. Creating awesome products is always my main goal, altogether with experimenting new technologies and getting to know what the market needs the most. I'm here not only to deliver products, but also to learn from the best, and to share knowledge as tangible as possible, which made me an open-source no. 1 fan, with a few FOSS projects in the oven.
 
 ## Experience
 
 ### VTEX (https://vtex.com/)
 
 **Senior Software Developer** - June 2024, present 🏠
+
+- Participated in early documentations, RFCs, discussions and developments for Faststore Platform
+- Introduced ADRs to assist the team to properly document architectural decisions
+- Introduced the solution for the internal proxy handler currently used on Faststore Platform, after conducting a thorough research and syncing with my peers with the suggested approach, plus alternatives.
+- Conducted, wrote and presented the Faststore Platform deployment strategy, which was then executed in the following months when integrating with sister pipelines (fastcheckout, sales-app & discovery)
+- Conducted, researched and developed a solution to reassess the package manager control policy, aiming to remove library lock-ins, on Faststore. This was done mainly to assist the chosen Deployment Lifecycle document from Faststore Platform (which was mainly researched by me)
+- Invited and actively participating as the Maintainer Engineer for Shoreline, being an active developer and contributing to Office Hours and internal decision making with my peers regarding future components, design decisions et al
+- Integrated pipelines integration to allow downloading the source tarball after a deployment is completed on Faststore Cloud
+- Researched and developed a solution on Faststore Cloud to allow deployments to be distinguished by the modules available on that store (through a monorepo or not)
 
 ### Sizebay (https://sizebay.com)
 
